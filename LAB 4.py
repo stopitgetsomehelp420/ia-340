@@ -322,6 +322,7 @@ df[:]
 
 # In[ ]:
 
-
+cur.close()
+conn.close()
 
 
